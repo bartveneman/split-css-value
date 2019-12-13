@@ -1,7 +1,7 @@
 {
 	"name": "split-css-value",
 	"description": "Split a comma-separated CSS value into an array of single values",
-	"version": "0.0.1",
+	"version": "0.1.1",
 	"homepage": "https://www.projectwallace.com/oss",
 	"repository": "https://github.com/bartveneman/split-css-value",
 	"issues": "https://github.com/bartveneman/split-css-value/issues",
